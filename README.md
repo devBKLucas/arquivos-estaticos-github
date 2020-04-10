@@ -29,7 +29,7 @@ O jsdelivr transformas projetos NPM, github e wordpress em CDN, portanto qualque
 
 Como o foco aqui é o github, vou mostrar como transformar um arquivo CSS ou JS em um link disponível para utilizar em qualquer projeto como um site.
 
-Vou dar o exemplo usando esse javascript de um projeto de fotos que não fornece uma CDN, seria necessário baixar os aquivos e usar no seu servidor.
+Veja o exemplo básico
 </p>
 <b>https://cdn.jsdelivr.net/gh/user/repo@version/file</b><br><br>
 
